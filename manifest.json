@@ -1,0 +1,17 @@
+{
+  "name": "Quesden · 问题花园",
+  "short_name": "问题花园",
+  "description": "随手捕捉问题，让回答和路径成为养分，看它们慢慢长。",
+  "lang": "zh-CN",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#FAF9F5",
+  "background_color": "#FAF9F5",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
